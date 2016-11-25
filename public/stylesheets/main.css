@@ -1,0 +1,54 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.deleteform {
+    display: inline;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+#fullbg {
+    background: url('../media/camping1.jpg');
+    background-size: 100% 100%;
+    height: 94vh;
+    display: flex;
+    align-items: center;
+}
+
+.inner {
+    text-align: center;
+}
+
+.inner h1, .inner p {
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.inner .btn-default {
+    background: none;
+    color: #fff;
+    margin-top: 15px;
+}
+
+.inner hr {
+    width: 50%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-width: 2px 0;
+}
+
+.glyphicon {
+    color: #fff;
+    font-size: 12em;
+}
